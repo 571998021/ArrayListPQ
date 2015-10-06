@@ -1,4 +1,4 @@
-public interface MyList {
+interface MyList {
 	public void add(Object element);
 	public void remove(Object element);
 	public boolean isEmpty();
